@@ -62,6 +62,7 @@
 ## 项目专属约束
 
 - 本仓库是 **北京始盛开科技有限公司 / 始盛开品牌** 的 brain，用于沉淀公司命名、品牌叙事、视觉系统和后续项目方向。
-- 当前不是空白冷启动：`Releases/始盛开的由来.md` 和 `Releases/color-system/color-system.md` 已经是现有定稿内容。
+- 当前不是空白冷启动：`Releases/始盛开的由来.md`、`Releases/LOGO设计.md` 和 `Releases/color-system/color-system.md` 已经是现有定稿内容。
 - 品牌文字、命名解释、色彩系统等对外口径以 `Releases/` 为准；`Drafts/name-source.md` 只作为早期来源参考。
+- 最终 LOGO 文件为 `Releases/avatar.svg` 和 `Releases/avatar.png`；如需导出其它规格，应以 `Releases/avatar.svg` 为源文件。
 - 视觉风格已定：公司主识别用黑白灰，紫色 `#8733D8` 作为 AI 能量色，玫红 `#E14692` 只作少量强调，不要把“始盛开”做成满屏紫色品牌。

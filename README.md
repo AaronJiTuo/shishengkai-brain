@@ -7,6 +7,7 @@
 ## 当前定稿内容
 
 - [`Releases/始盛开的由来.md`](./Releases/始盛开的由来.md)：公司名称“始盛开”的来源、诗意解释与品牌叙事。
+- [`Releases/LOGO设计.md`](./Releases/LOGO设计.md)：最终 LOGO 文件、设计定位、用色规则与使用原则。
 - [`Releases/color-system/color-system.md`](./Releases/color-system/color-system.md)：始盛开颜色系统与 LOGO / UI 用色规则。
 
 ## 目录结构
@@ -40,7 +41,7 @@ shishengkai-brain/
 **新 agent 接手本项目：**
 
 ```text
-请先读 AGENTS.md，再读 Releases/（尤其“始盛开的由来”和“始盛开颜色系统”）。读完后，请用几句话复述你对始盛开品牌、当前定稿内容和视觉约束的理解；在我确认之前，不要执行任何具体任务，也不要修改仓库内容。
+请先读 AGENTS.md，再读 Releases/（尤其“始盛开的由来”“LOGO设计”和“始盛开颜色系统”）。读完后，请用几句话复述你对始盛开品牌、当前定稿内容和视觉约束的理解；在我确认之前，不要执行任何具体任务，也不要修改仓库内容。
 ```
 
 **整理新材料为草稿：**
